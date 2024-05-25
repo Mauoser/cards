@@ -92,9 +92,9 @@ body {
 
 .card-trip-info .card-trip-user {
   position: absolute;
-  right: -120px;
+  right: -100px;
   top: -20px;
-  width: 60px;
+  width: 55px;
 }
 
 .avatar-bordered {
@@ -106,6 +106,6 @@ body {
 
 .card-trip-pricing {
   position: absolute;
-  right: -120px;
+  right: -100px;
   top: 20px;
 }
